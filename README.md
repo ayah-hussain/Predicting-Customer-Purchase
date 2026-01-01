@@ -40,6 +40,3 @@ Models will be trained on features including User ID, Product ID, Category, and 
 * `/src`: Source code for data processing and model training.
 * `/notebooks`: Jupyter notebooks for exploratory data analysis (EDA).
 * `/docs`: Project documentation and reports.
-
----
-*Project for Data Mining Course (YZV311).*
