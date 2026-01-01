@@ -38,12 +38,12 @@ Models will be trained on features including User ID, Product ID, Category, and 
 
 ## Project Timeline and Roles
 
-| Phase | Task Description | Responsible Member |
+| Phase | Task Description |
 | :--- | :--- | :--- |
-| **Phase 1** | Dataset exploration and preprocessing | Ömer Erdağ |
-| **Phase 2** | Model training | Both Members |
-| **Phase 3** | Model evaluation | Ayah A M Hussein |
-| **Phase 4** | Report writing and final presentation | Both Members |
+| **Phase 1** | Dataset exploration and preprocessing |
+| **Phase 2** | Model training | 
+| **Phase 3** | Model evaluation | 
+| **Phase 4** | Report writing and final presentation |
 
 ## Repository Structure
 * `/src`: Source code for data processing and model training.
