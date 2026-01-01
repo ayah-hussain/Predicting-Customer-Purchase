@@ -36,15 +36,6 @@ Models will be trained on features including User ID, Product ID, Category, and 
 * **Precision & Recall**
 * **AUC-ROC:** To measure the model's ability to differentiate between classes effectively.
 
-## Project Timeline and Roles
-
-| Phase | Task Description |
-| :--- | :--- | :--- |
-| **Phase 1** | Dataset exploration and preprocessing |
-| **Phase 2** | Model training | 
-| **Phase 3** | Model evaluation | 
-| **Phase 4** | Report writing and final presentation |
-
 ## Repository Structure
 * `/src`: Source code for data processing and model training.
 * `/notebooks`: Jupyter notebooks for exploratory data analysis (EDA).
